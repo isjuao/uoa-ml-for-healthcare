@@ -9,7 +9,9 @@ and [machine learning for healthcare](https://www.abdn.ac.uk/registry/courses/po
   steps of a data science project and includes code for two visualisations touching on different developments in the 
   context of domestic abuse in Scotland. The final written report can be found in
 `hds_report-paper.pdf`. It summarises analysis results as well as strengths and limitations of the two approaches to 
-  visualise key arguments of the analysis.
+  visualise key arguments of the analysis. This supplementary infographic was created with the intention of informing
+  healthcare professionals about potential biases pertaining to health data.
+  ![Infographic on biases in health data](hds-poster-submit.png)
 - _MLHC_: Modeling of patient diagnostics test data to predict whether a patient has a stage of Hepatitis C or 
   classifies as a potential blood donor. The complete analysis and all modeling process steps as well as a 
   discusson of limitations can be found in `mlhc_final-report.pdf`.
